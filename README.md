@@ -63,7 +63,7 @@ This project is ideal for:
 ## Related Repositories
 
 Explore additional resources:
-- [Fictional University Theme Plugins](https://github.com/81joker/Fictional-University-Theme-plugins)
+- [Fictional University Theme Plugins](https://github.com/81joker/Fictional-University-Theme-plugins/tree/main/plugins)
 - [Fictional University by eastie71](https://github.com/eastie71/fictional-university-theme)
 - [WordPress Fictional University by Ayon95](https://github.com/Ayon95/wordpress-fictional-university)
 
