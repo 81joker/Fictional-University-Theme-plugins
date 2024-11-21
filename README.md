@@ -58,15 +58,3 @@ This project is ideal for:
 - Developers creating content-rich websites for educational institutions.
 - Institutions requiring interactive features and real-time functionality for students and faculty.
 
----
-
-## Related Repositories
-
-Explore additional resources:
-- [Fictional University Theme Plugins](https://github.com/81joker/Fictional-University-Theme-plugins/tree/main/plugins)
-- [Fictional University by eastie71](https://github.com/eastie71/fictional-university-theme)
-- [WordPress Fictional University by Ayon95](https://github.com/Ayon95/wordpress-fictional-university)
-
----
-
-Happy coding!
